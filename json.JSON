@@ -1,0 +1,23 @@
+{
+	"version": "piano v3",
+
+
+
+
+"unityid": "4859695",
+"unityb": "Banner_Android",
+"unityi": "Interstitial_Android",
+"unityr": "Rewarded_Android",
+
+"admobbanner": "ca-app-pub-3940256099942544/6300978111",
+"admobinter": "ca-app-pub-3940256099942544/1033173712",
+"admobreward": "ca-app-pub-3940256099942544/5224354917",
+
+"adswitch detail": "0 auto , 1 admob 2  unity",
+
+"adswitch": "2"
+
+
+
+
+}
